@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/task_13924"
+		},
+		{
+			"path": "../js"
+		},
+		{
+			"path": "../../../Downloads/yummy cafe"
+		},
+		{
+			"path": "../../../Downloads/родина"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "AniServePlace"
+	}
+}
